@@ -12,5 +12,5 @@ Installing the Driver:
 	To install the driver use the following command:
 		
 		$ apt install --reinstall linux-headers-$(uname -r)
-  		$ make
-    		$ make install
+		$ make
+		$ make install
