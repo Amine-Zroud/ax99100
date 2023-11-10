@@ -5,7 +5,7 @@ PCIe COM and LPT device
 Getted from 
 (https://github.com/Igorbunow/ax99100)https://github.com/Igorbunow/ax99100
 
-Based on V1.9.0
+Based on https://www.asix.com.tw/en/product/Interface/PCIe_Bridge/AX99100 V1.9.0
 
 Installing the Driver:
 ----------------------
